@@ -115,7 +115,7 @@ section {
     /* background-color: chartreuse; */
     text-align: center;
     margin: auto 20px 50px 20px;
-    width: fit-content;
+    /* width: fit-content; */
 }
 
 .social {
